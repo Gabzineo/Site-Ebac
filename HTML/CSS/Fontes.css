@@ -1,0 +1,22 @@
+    
+@font-face {
+    font-family: 'Jornal';
+    src: url(./Advera.ttf) format('truetype'),
+    url(./Advera.otf) format('opentype');
+}
+
+@font-face {
+    font-family: Inter;
+    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+}
+
+@font-face {
+    font-family: 'Jogos';
+    src: url(./Professor\ Marbles\ 1_PersonalUseOnly.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Sans';
+    src: url(./OpenSans-Bold.ttf) format('truetype');
+}
