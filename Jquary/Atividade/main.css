@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #1a26cabe;
+    padding: 16px 0;
+    color: #fff;
+    display: flex;
+    border-bottom: 16px solid #1f3f97;
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+    
+}
+
+header button{
+    margin-left: 16px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 12px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+form{
+    padding-top: 24px;
+    text-align: center;
+}
+    
+
+
+#terefa-text{
+    padding: 10px;
+    padding-right: 60px;
+}
+
+form button{
+    margin-left: 9px;
+}
+
+#accept-button{
+    background-color: #15ff00;
+    font-weight: bold;
+    margin-left: 16px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 15px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#reset-button{
+    background-color: #c73e1bbd;
+    font-weight: bold;
+    margin-left: 16px;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 15px;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    margin-top: 70px;
+    font-family: "Roboto";
+    font-style: italic;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  ul li{
+    padding-top: 19px;
+  }
+
+  ul{
+    text-align: center;
+  }
+
+  li{
+    border-top: 1px solid black;
+    padding-bottom: 10px;
+    border-bottom: none;
+    
+  }
